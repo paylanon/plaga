@@ -1,4 +1,4 @@
-(* PLAGA REPL *)
+(* plaga: REPL *)
 (* open Token *)
 open Lexer
 open Ast

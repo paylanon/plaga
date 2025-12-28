@@ -1,5 +1,5 @@
-(* PLAGA LEXER *)
-open Core
+(* plaga: lexer *)
+open Base
 open Token
 
 let new_token typ literal = { typ; literal }

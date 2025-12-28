@@ -19,7 +19,7 @@
  (name plaga)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune alcotest core)
+ (depends ocaml dune)
  (tags
   (topics "to describe" your project)))
 

@@ -1,4 +1,4 @@
-(* PLAGA PARSER *)
+(* plaga: parser  *)
 open Token
 open Lexer
 open Ast

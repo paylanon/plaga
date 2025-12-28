@@ -1,4 +1,4 @@
-(* PLAGA AST using ADT *)
+(* plaga: AST (ADT) *)
 open Token
 
 type node =

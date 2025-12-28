@@ -1,4 +1,4 @@
-(* PLAGA TOKENS *)
+(* plaga: token *)
 (* --- TOKEN TYPES --- *)
 type token_type =
   | Illegal
